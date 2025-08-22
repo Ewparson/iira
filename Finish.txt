@@ -1,0 +1,60 @@
+1. Stripe & Google Auth
+ Register a business anywhere Stripe accepts (crypto-friendly or not).
+
+ Open Stripe and Google accounts with real info (no fake docs).
+
+ Plug in live Stripe API keys and Google OAuth keys.
+
+
+
+
+
+IF payment allow Node downloads
+
+if payment send wallet.
+
+
+
+ 
+
+2. Frontend Finish
+ Double-check your “Add Payment Method” (Stripe Elements/CardForm) works with your live keys.
+
+ Make sure “Sign in with Google” works for signup/login.
+
+ Make sure KYC flow and admin approval works (if you’re requiring KYC).
+
+
+
+3. User Flow
+ Onboarding flow:
+
+Signup/Login (Google/email)
+
+Email verification (if enabled)
+
+KYC (if enabled)
+
+2FA (optional)
+
+Add Payment Method
+
+Trade (simulate balance changes for now)
+
+
+
+
+4. Legal
+ Add a simple Terms of Service and Privacy Policy page.
+
+ In the TOS, state:
+“You are responsible for complying with your local laws. We reserve the right to restrict access at any time.”
+
+
+
+
+5. Deploy & Announce
+ Deploy the app.
+
+ Share with testers, friends, early users.
+

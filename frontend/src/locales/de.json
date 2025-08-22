@@ -1,0 +1,16 @@
+﻿{
+  "form.email": "E-Mail-Adresse",
+  "form.create": "Konto erstellen",
+  "landing.subtitle": "Präge IntellaCoin sicher durch die Überprüfung von KI-Arbeit, nicht durch Stromverschwendung.",
+  "landing.title": "Nachweis intelligenter Berechnung",
+  "form.signup_failed": "Registrierung fehlgeschlagen",
+  "form.server_error": "Serverfehler",
+  "form.wallet_created": "Wallet erstellt:",
+  "form.invalid": "Ungültige E-Mail-Adresse",
+  "nav.legal": "Rechtliches",
+  "nav.company": "Unternehmen",
+  "button.sign_up": "Registrieren",
+  "button.sign_in": "Anmelden",
+  "nav.developers": "Entwickler",
+  "nav.blocktech": "Börse"
+}

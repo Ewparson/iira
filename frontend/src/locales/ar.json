@@ -1,0 +1,16 @@
+﻿{
+  "form.email": "عنوان البريد الإلكتروني",
+  "form.create": "إنشاء حساب",
+  "landing.subtitle": "قم بسك IntellaCoin من خلال التحقق من أعمال الذكاء الاصطناعي، وليس من خلال إهدار الطاقة.",
+  "landing.title": "إثبات الحوسبة الذكية",
+  "form.signup_failed": "فشل التسجيل",
+  "form.server_error": "خطأ في الخادم",
+  "form.wallet_created": "تم إنشاء المحفظة:",
+  "form.invalid": "بريد إلكتروني غير صالح",
+  "nav.legal": "قانوني",
+  "nav.company": "الشركة",
+  "button.sign_up": "تسجيل",
+  "button.sign_in": "تسجيل الدخول",
+  "nav.developers": "المطورون",
+  "nav.blocktech": "التبادل"
+}

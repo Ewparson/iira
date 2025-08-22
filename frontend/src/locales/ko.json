@@ -1,0 +1,16 @@
+﻿{
+  "form.email": "이메일 주소",
+  "form.create": "계정 생성",
+  "landing.subtitle": "AI 작업을 검증하여 전력을 낭비하지 않고 IntellaCoin을 안전하게 발행하세요.",
+  "landing.title": "지능형 컴퓨트 증명",
+  "form.signup_failed": "가입에 실패했습니다",
+  "form.server_error": "서버 오류",
+  "form.wallet_created": "지갑이 생성되었습니다:",
+  "form.invalid": "잘못된 이메일 주소입니다",
+  "nav.legal": "법률",
+  "nav.company": "회사",
+  "button.sign_up": "가입하기",
+  "button.sign_in": "로그인",
+  "nav.developers": "개발자",
+  "nav.blocktech": "거래소"
+}

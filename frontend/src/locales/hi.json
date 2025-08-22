@@ -1,0 +1,16 @@
+﻿{
+  "form.email": "ईमेल पता",
+  "form.create": "खाता बनाएँ",
+  "landing.subtitle": "AI कार्य को सत्यापित करके सुरक्षित रूप से IntellaCoin बनाएँ, ऊर्जा बर्बाद नहीं करें।",
+  "landing.title": "बुद्धिमान कंप्यूट का प्रमाण",
+  "form.signup_failed": "साइनअप विफल हुआ",
+  "form.server_error": "सर्वर त्रुटि",
+  "form.wallet_created": "वॉलेट बनाया गया:",
+  "form.invalid": "अमान्य ईमेल",
+  "nav.legal": "कानूनी",
+  "nav.company": "कंपनी",
+  "button.sign_up": "साइन अप करें",
+  "button.sign_in": "साइन इन करें",
+  "nav.developers": "डेवलपर्स",
+  "nav.blocktech": "एक्सचेंज"
+}

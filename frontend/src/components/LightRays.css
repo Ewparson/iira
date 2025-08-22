@@ -1,0 +1,54 @@
+/* Full-screen container for the background effect */
+.iira-rays{
+  position:fixed;
+  inset:0;
+  z-index:0;               /* background layer */
+  pointer-events:none;
+  overflow:hidden;
+}
+
+/* Rotating starburst */
+.iira-rays__fan{
+  position:absolute;
+  inset:-20% -20%;
+  transform-origin:50% 12%;
+  background:
+    /* red spokes */
+    repeating-conic-gradient(
+      from -18deg,
+      rgba(239,68,68,.24) 0deg 6deg,
+      rgba(239,68,68,0)   6deg 12deg
+    );
+  /* fade out toward the bottom */
+  -webkit-mask-image: radial-gradient(120% 80% at 50% 0, #000 40%, transparent 72%);
+          mask-image: radial-gradient(120% 80% at 50% 0, #000 40%, transparent 72%);
+  animation:iira-rotate 40s linear infinite;
+}
+
+@keyframes iira-rotate{ to{ transform:rotate(360deg); } }
+
+/* top glow */
+.iira-rays__glow{
+  position:absolute;
+  inset:0;
+  background:
+    radial-gradient(55% 40% at 50% -10%, rgba(239,68,68,.35), transparent 60%),
+    linear-gradient(to bottom, transparent 0%, rgba(0,0,0,.55) 65%, rgba(0,0,0,.9) 100%);
+}
+
+/* glossy sweep */
+.iira-rays__sheen{
+  position:absolute;
+  inset:-10% -40%;
+  background:linear-gradient(115deg,
+    rgba(255,255,255,0) 40%,
+    rgba(255,255,255,.14) 50%,
+    rgba(255,255,255,0) 60%);
+  mix-blend-mode:overlay;
+  animation:iira-sheen 6s linear infinite;
+}
+
+@keyframes iira-sheen{
+  0%   { transform:translateX(-18%); }
+  100% { transform:translateX(18%); }
+}

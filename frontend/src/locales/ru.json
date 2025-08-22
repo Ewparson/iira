@@ -1,0 +1,16 @@
+﻿{
+  "form.email": "Адрес электронной почты",
+  "form.create": "Создать аккаунт",
+  "landing.subtitle": "Создавайте IntellaCoin, проверяя ИИ-работу, а не тратя электричество.",
+  "landing.title": "Доказательство Интеллектуальных Вычислений",
+  "form.signup_failed": "Ошибка регистрации",
+  "form.server_error": "Ошибка сервера",
+  "form.wallet_created": "Кошелек создан:",
+  "form.invalid": "Недействительный email",
+  "nav.legal": "Юридическая информация",
+  "nav.company": "Компания",
+  "button.sign_up": "Зарегистрироваться",
+  "button.sign_in": "Войти",
+  "nav.developers": "Разработчики",
+  "nav.blocktech": "Биржа"
+}

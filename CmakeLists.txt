@@ -1,0 +1,6 @@
+# add sources
+target_sources(poic_node PRIVATE index/index_caller.cpp)
+
+# if not already linked (ZMQ)
+find_package(ZeroMQ REQUIRED)
+target_link_libraries(poic_node PRIVATE libzmq)

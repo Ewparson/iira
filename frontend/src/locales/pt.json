@@ -1,0 +1,16 @@
+﻿{
+  "form.email": "Endereço de e-mail",
+  "form.create": "Criar Conta",
+  "landing.subtitle": "Gere IntellaCoin verificando o trabalho de IA, sem desperdiçar energia.",
+  "landing.title": "Prova de Computação Inteligente",
+  "form.signup_failed": "Falha no cadastro",
+  "form.server_error": "Erro no servidor",
+  "form.wallet_created": "Carteira criada:",
+  "form.invalid": "E-mail inválido",
+  "nav.legal": "Jurídico",
+  "nav.company": "Empresa",
+  "button.sign_up": "Registrar-se",
+  "button.sign_in": "Entrar",
+  "nav.developers": "Desenvolvedores",
+  "nav.blocktech": "blocktech"
+}

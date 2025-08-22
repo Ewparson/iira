@@ -1,0 +1,16 @@
+﻿{
+  "form.email": "メールアドレス",
+  "form.create": "アカウント作成",
+  "landing.subtitle": "AIの作業を検証することで、電力を無駄にせずにIntellaCoinを安全に発行します。",
+  "landing.title": "インテリジェントコンピュートの証明",
+  "form.signup_failed": "サインアップに失敗しました",
+  "form.server_error": "サーバーエラー",
+  "form.wallet_created": "ウォレットが作成されました:",
+  "form.invalid": "無効なメールアドレス",
+  "nav.legal": "法務",
+  "nav.company": "会社情報",
+  "button.sign_up": "サインアップ",
+  "button.sign_in": "サインイン",
+  "nav.developers": "開発者",
+  "nav.blocktech": "取引所"
+}

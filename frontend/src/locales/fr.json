@@ -1,0 +1,16 @@
+﻿{
+  "form.email": "Adresse e-mail",
+  "form.create": "Créer un compte",
+  "landing.subtitle": "Générez IntellaCoin en vérifiant des travaux d'IA, pas en gaspillant de l'énergie.",
+  "landing.title": "Preuve de Calcul Intelligent",
+  "form.signup_failed": "Échec de l'inscription",
+  "form.server_error": "Erreur du serveur",
+  "form.wallet_created": "Portefeuille créé :",
+  "form.invalid": "Adresse e-mail invalide",
+  "nav.legal": "Légal",
+  "nav.company": "Entreprise",
+  "button.sign_up": "S'inscrire",
+  "button.sign_in": "Se connecter",
+  "nav.developers": "Développeurs",
+  "nav.blocktech": "Échange"
+}

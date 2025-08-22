@@ -1,0 +1,16 @@
+﻿{
+    "form.signup_failed":  "注册失败",
+    "form.invalid":  "无效的电子邮箱",
+    "nav.company":  "公司",
+    "form.wallet_created":  "钱包已创建：",
+    "nav.developers":  "开发者",
+    "landing.title":  "智能计算证明",
+    "nav.legal":  "法律",
+    "landing.subtitle":  "通过验证 AI 工作而不是浪费电力来安全地铸造 IntellaCoin。",
+    "form.email":  "电子邮箱地址",
+    "nav.blocktech":  "交易",
+    "form.create":  "创建账户",
+    "button.sign_up":  "注册",
+    "button.sign_in":  "登录",
+    "form.server_error":  "服务器错误"
+}

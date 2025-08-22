@@ -1,0 +1,17 @@
+{
+  "name": "iira",
+  "private": true,
+  "workspaces": ["frontend", "backend"],
+  "scripts": {
+    "dev:frontend": "npm -w frontend run dev",
+    "dev:backend": "npm -w backend run dev",
+    "dev": "concurrently -n FE,BE -c cyan,magenta \"npm:dev:frontend\" \"npm:dev:backend\"",
+    "build": "npm -w frontend run build && npm -w backend run build",
+    "preview": "npm -w frontend run preview",
+    "start": "npm run dev"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.0"
+  },
+  "engines": { "node": ">=20.19.0" }
+}

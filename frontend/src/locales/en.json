@@ -1,0 +1,16 @@
+﻿{
+  "form.email": "Email address",
+  "form.create": "Create Account",
+  "landing.subtitle": "Securely mint IntellaCoin by verifying AI work, not wasting power.",
+  "landing.title": "Proof of Intelligent Compute",
+  "form.signup_failed": "Signup failed",
+  "form.server_error": "Server error",
+  "form.wallet_created": "Wallet created:",
+  "form.invalid": "Invalid email",
+  "nav.legal": "Legal",
+  "nav.company": "Company",
+  "button.sign_up": "Sign Up",
+  "button.sign_in": "Sign In",
+  "nav.developers": "Developers",
+  "nav.IntellaCoin": "IntellaCoin"
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Iira.ai IntellaCoin</title>
+
+    <!-- 1) Load Montserrat weights 800 & 900 -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@800;900&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- 2) Tailwind CDN + config -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        darkMode: 'class',
+        theme: {
+          extend: {
+            colors: {
+              background: '#000000',
+              surface:    '#1A1A1A',
+              primary:    '#E53E3E',
+              text:       '#F7FAFC',
+            },
+            fontFamily: {
+              brand: ['Montserrat', 'sans-serif'],
+            },
+          },
+        },
+      }
+    </script>
+  </head>
+  <body class="bg-background text-text min-h-screen">
+    <div id="root"></div>
+  </body>
+</html>

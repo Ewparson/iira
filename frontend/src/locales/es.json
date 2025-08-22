@@ -1,0 +1,16 @@
+﻿{
+  "form.email": "Correo electrónico",
+  "form.create": "Crear cuenta",
+  "landing.subtitle": "Genera IntellaCoin validando trabajos de IA, no malgastando energía.",
+  "landing.title": "Prueba de Cómputo Inteligente",
+  "form.signup_failed": "Error al registrarse",
+  "form.server_error": "Error del servidor",
+  "form.wallet_created": "Billetera creada:",
+  "form.invalid": "Correo electrónico inválido",
+  "nav.legal": "Legal",
+  "nav.company": "Empresa",
+  "button.sign_up": "Registrarse",
+  "button.sign_in": "Iniciar sesión",
+  "nav.developers": "Desarrolladores",
+  "nav.blocktech": "Intercambio"
+}
